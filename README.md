@@ -1,6 +1,6 @@
 # Práctica de control de versiones con VSC, GIT y GitHub 
 
-Realizada para la asignatura de entornos de desarrollo
+Realizada para la asignatura de entornos de desarrollo en el CFS DAW
 
 
 ## Fases
